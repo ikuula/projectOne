@@ -1,0 +1,46 @@
+h1 {
+  color: #791233;
+}
+
+p {
+  color: white;
+}
+
+img {
+  width: 200px;
+}
+
+img.galleryImage {
+  width: 300px;
+}
+
+h1 {
+  font-size:50px;
+  font-family: "avenir next";
+}
+
+body {
+    background-color: #098;
+}
+
+p {
+    font-family: "avenir next";
+}
+
+p {
+  margin: auto;
+  width: 50%;
+  border: 3px dotted #999;
+  padding: 50px; 
+}
+
+img {
+  margin: auto;
+  width: 50%;
+  border: 3px solid #999;
+  padding: 50px; 
+}
+
+h1 {
+  text-align: center;
+}
